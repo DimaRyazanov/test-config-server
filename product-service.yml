@@ -10,3 +10,5 @@ logging:
           mongodb:
             core:
               MongoTemplate: DEBUG
+test:
+  name: TestName
