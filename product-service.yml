@@ -11,4 +11,4 @@ logging:
             core:
               MongoTemplate: DEBUG
 test:
-  name: TestName
+  name: TestName123
