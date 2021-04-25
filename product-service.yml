@@ -15,4 +15,4 @@ logging:
             core:
               MongoTemplate: DEBUG
 test:
-  name: TestName123
+  name: TestName12345
